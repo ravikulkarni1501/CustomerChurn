@@ -1,5 +1,0 @@
-streamlit
-pandas
-plotly
-streamlit-components
-pickle-mixin
